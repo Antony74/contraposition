@@ -1,0 +1,21 @@
+{
+  "name": "contraposition",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "convert": "svgexport incredible-proof.svg incredible-proof.png 0:140:1000:150 10x \"svg{background: white}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antony74/contraposition.git"
+  },
+  "author": "Antony Bartlett",
+  "license": "public domain",
+  "bugs": {
+    "url": "https://github.com/Antony74/contraposition/issues"
+  },
+  "homepage": "https://github.com/Antony74/contraposition#readme",
+  "dependencies": {
+    "svgexport": "^0.3.2"
+  }
+}
